@@ -7,6 +7,9 @@ I'Pratik from India, and I do content on Design and Development.I really enjoy l
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
+* Node Js
+* Web 3 Js 
+* 
 
 
 
