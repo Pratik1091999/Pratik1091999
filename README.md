@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Ethereum & Polygon Chain<br>👯 I’m looking to collaborate on Blockchains<br>🤝 I’m looking for help with  Flashloan Arbitrage<br>🌱 I’m currently learning Solidity, Node.js ,Ether.js ,Web3.js , Moralis<br>💬 Ask me about Solidity , Blockchains<br>
+🔭 I’m currently working on **Ethereum & Polygon Chain**<br>👯 I’m looking to collaborate on **Blockchains**<br>🤝 I’m looking for help with  **Flashloan Arbitrage**<br>🌱 I’m currently learning **Solidity, Node.js ,Ether.js ,Web3.js , Moralis**<br>💬 Ask me about **Solidity , Blockchains**<br> - 📫 How to reach me **pratik10mahandule@gmail.com**
 
 
 # 💻 Tech Stack:
